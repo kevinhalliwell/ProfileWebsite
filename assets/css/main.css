@@ -3011,6 +3011,7 @@ input, select, textarea {
 		-ms-flex-shrink: 1;
 		flex-shrink: 1;
 		width: 100%;
+		background-color: #e6e6e6;
 	}
 
 		#main > .inner {
